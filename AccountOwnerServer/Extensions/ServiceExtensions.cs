@@ -1,4 +1,6 @@
-﻿using System.Runtime.CompilerServices;
+﻿using Contracts;
+using LoggerService;
+using System.Runtime.CompilerServices;
 
 namespace AccountOwnerServer.Extensions
 {
@@ -21,6 +23,11 @@ namespace AccountOwnerServer.Extensions
             {
                 // Configure IIS options here if needed
             });
+        }
+
+        public static void ConfigureLoggerService(this IServiceCollection services)
+        {
+            services.AddSingleton<ILoggerManager, LoggerManager>();
         }
     }
 }
