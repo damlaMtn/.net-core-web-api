@@ -1,0 +1,14 @@
+2025-10-05 23:23:35.4158 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:24:23.1625 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:24:25.3186 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:24:28.6042 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:26:52.8803 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:26:57.3922 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:27:13.0430 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:27:32.3864 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:30:57.7861 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:32:24.7969 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:34:08.5302 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:34:19.8256 ERROR Something went wrong inside GetAllOwners action: Access denied for user 'root'@'localhost' (using password: YES)
+2025-10-05 23:50:03.9268 INFO Returned all owners from database.
+2025-10-05 23:58:48.5425 INFO Returned all owners from database.
