@@ -1,0 +1,72 @@
+2025-10-07 21:42:52.6510 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:43:05.0819 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:43:33.2618 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:44:01.2000 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:44:46.2960 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:11.3636 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:27.3503 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:47.1374 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:49.1722 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:50.2371 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:45:58.6964 INFO Returned all owners from database.
+2025-10-07 21:46:05.8142 INFO Returned all owners from database.
+2025-10-07 21:46:27.3263 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:46:35.3250 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 21:46:42.5954 INFO Returned all owners from database.
+2025-10-07 21:59:17.2925 INFO Returned all owners from database.
+2025-10-07 21:59:21.8330 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> Owner
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.Models.Owner
+2025-10-07 22:17:34.3059 INFO Returned all owners from database.
+2025-10-07 22:17:53.6203 INFO Returned all owners from database.
+2025-10-07 22:37:16.4768 INFO Returned all owners from database.
