@@ -11,6 +11,7 @@ import { App } from './app';
 import { Home } from './home/home';
 import { Menu } from './menu/menu';
 import { NotFound } from './error-pages/not-found/not-found';
+import { OwnerModule } from './owner/owner-module';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { NotFound } from './error-pages/not-found/not-found';
     BrowserAnimationsModule,
     HttpClientModule,
     CollapseModule.forRoot(),
-    NotFound
+    NotFound,
+    OwnerModule
   ],
   providers: [
     provideBrowserGlobalErrorListeners(),

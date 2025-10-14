@@ -6,6 +6,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   { path: 'home', component: Home },
+  { path: 'owner', loadChildren: () => import('./owner/owner-module').then(m => m.OwnerModule) },
   { path: '404', component: NotFound }, 
   { path: '', redirectTo: '/home', pathMatch: 'full' },
   { path: '**', redirectTo: '/404', pathMatch: 'full' }
