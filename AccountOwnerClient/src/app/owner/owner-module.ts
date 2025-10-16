@@ -3,11 +3,13 @@ import { CommonModule } from '@angular/common';
 
 import { OwnerRoutingModule } from './owner-routing-module';
 import { OwnerList } from './owner-list/owner-list';
+import { OwnerDetails } from './owner-details/owner-details';
 
 
 @NgModule({
   declarations: [
-    OwnerList
+    OwnerList,
+    OwnerDetails
   ],
   imports: [
     CommonModule,

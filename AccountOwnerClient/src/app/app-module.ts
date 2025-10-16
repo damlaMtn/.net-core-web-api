@@ -12,12 +12,14 @@ import { Home } from './home/home';
 import { Menu } from './menu/menu';
 import { NotFound } from './error-pages/not-found/not-found';
 import { OwnerModule } from './owner/owner-module';
+import { InternalServer } from './error-pages/internal-server/internal-server';
 
 @NgModule({
   declarations: [
     App,
     Home,
     Menu,
+    InternalServer,
   ],
   imports: [
     BrowserModule,
